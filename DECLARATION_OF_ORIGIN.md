@@ -176,6 +176,7 @@ This declaration applies to and is referenced from the following 3C platforms:
 - **Website:** [www.3c-innergrowth.com](https://www.3c-innergrowth.com)
 - **YouTube:** 3C Thread To Success™ channel
 - All future platforms and channels under the 3C Thread To Success™ brand
+- **Game-Specific Characters:** Character names and artwork introduced through interactive games are declared separately in [`3c-game-loader` / CHARACTER_DECLARATIONS.md](https://github.com/Anica-blip/3c-game-loader/blob/main/CHARACTER_DECLARATIONS.md), anchored to that repository's own commit history.
 
 ---
 
