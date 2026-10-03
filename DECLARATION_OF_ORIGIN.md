@@ -100,6 +100,20 @@ The Owner's AI voiceover for brand content is produced using **ElevenLabs** voic
 
 **Visual production:** Casey's character images were produced using **ChatGPT by OpenAI**, under the Owner's creative direction. His Otter badge belongs to the 3C Lifeline badge series designed by the Owner. All resulting visual assets are the exclusive intellectual property of the Owner.
 
+### 4.6 The 3C Lifeline Badge Series: Titles, Animal Spirits and Artwork
+
+Each member of the A-Team carries a 3C Lifeline badge: a badge title, an animal spirit and a piece of badge artwork. The series was conceived, named and designed by the Owner as part of the 3C Thread To Success™ brand identity. The titles below, their pairing with each character and animal spirit, and the badge artwork are original 3C creative elements:
+
+- **Anica:** Project Founder · Lifeline Cat
+- **Caelum:** Chief Advisor & PR Manager · Lifeline Eagle & Doberman
+- **Jan:** 3C Assistant-Support · Lifeline Mentor & Anchor · Dolphin
+- **Aurion:** 3C Mascot, Guardian & Guide · Lifeline Eagle & Anchor
+- **Casey:** 3C Creative Director · Lifeline Playmaker & Ace Maven · Otter (badge wording: "Otter · 3C Ace Maven")
+
+The badge title **"3C Ace Maven"**, like every title in this series, is used by the Owner as a 3C brand designation. Its first use within the 3C brand is recorded by this repository's commit history.
+
+Use of these titles, or of a confusingly similar badge series, in a way that suggests a connection with 3C Thread To Success™ is not permitted without the Owner's permission.
+
 ---
 
 ## 5. Methodology: Active Thinking Approach (ATA)
@@ -158,6 +172,7 @@ The following elements constitute the 3C Thread To Success™ intellectual prope
 - **Jan**: brand character, 3C Assistant-Support and Writing Lab, built and deployed by the Owner
 - **Aurion**: brand mascot, community voice and personality
 - **Casey**: brand character, 3C Creative Director (Lifeline Playmaker & Ace Maven)
+- **The 3C Lifeline badge series**: badge titles (including "Lifeline Playmaker" and "3C Ace Maven"), animal spirits and badge artwork
 - **The 3C Lab working system** (Cooking Lab, Writing Lab, and Stage Lab), including its operating files, methods, and working language
 - **"Think Smarter, Not Harder — Zero Shortcuts"**: brand philosophy statement
 - **"Think it. Do it. Own it."**: brand identity statement
