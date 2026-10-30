@@ -85,7 +85,7 @@ The Owner's AI voiceover for brand content is produced using **ElevenLabs** voic
 
 **Visual production:** Aurion's cartoon image was originally generated via **Perchance AI Image Generator** ([perchance.org/ai-text-to-image-generator](https://perchance.org/ai-text-to-image-generator)). The Owner composed the final character by combining the body of one generated image with the head of another. Additional poses were then created using **Canva Create AI**, and further poses and variations using **ChatGPT by OpenAI**. All resulting visual assets are the exclusive intellectual property of the Owner.
 
-**Voice:** Aurion's voice is produced using **ElevenLabs** AI voice cloning technology, under the Owner's direction. This voice asset is the exclusive property of the Owner.
+**Voice:** Aurion's voice was designed using **ElevenLabs Voice Design**, under the Owner's direction. This voice asset is the exclusive property of the Owner.
 
 **Lip Sync / Video Animation:** Aurion is the sole 3C character to use **Magic Hour** ([magichour.ai](https://magichour.ai)) for AI-powered lip sync and video animation. This production tool is used exclusively under the Owner's creative direction.
 
